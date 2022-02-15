@@ -1,0 +1,10 @@
+H:\Data_qnap\Programování\Testíček\Testíček\bin\Debug\Testíček.exe.config
+H:\Data_qnap\Programování\Testíček\Testíček\bin\Debug\Testíček.exe
+H:\Data_qnap\Programování\Testíček\Testíček\bin\Debug\Testíček.pdb
+H:\Data_qnap\Programování\Testíček\Testíček\obj\Debug\Testíček.csprojAssemblyReference.cache
+H:\Data_qnap\Programování\Testíček\Testíček\obj\Debug\Testíček.Form1.resources
+H:\Data_qnap\Programování\Testíček\Testíček\obj\Debug\Testíček.Properties.Resources.resources
+H:\Data_qnap\Programování\Testíček\Testíček\obj\Debug\Testíček.csproj.GenerateResource.cache
+H:\Data_qnap\Programování\Testíček\Testíček\obj\Debug\Testíček.csproj.CoreCompileInputs.cache
+H:\Data_qnap\Programování\Testíček\Testíček\obj\Debug\Testíček.exe
+H:\Data_qnap\Programování\Testíček\Testíček\obj\Debug\Testíček.pdb
